@@ -2,8 +2,7 @@
 A brief description of what this project does and who it's for
 ## :rocket: About Me
 I'm a full-stack developer
-Front-End & Back-End Developer!
-I develop Web Applications and Websites.
+
 # Hi, I'm Cynthia Chelangat! :wave:
 ## :link: Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
