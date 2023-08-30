@@ -31,5 +31,5 @@ I'm actively involved in open source and have contributed to various projects. Y
 
 I'm always open to collaborating on
 
- img src = "https://github-readme-streak-stats.herokuapp.com/?user=chelahcynthia&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+ 
 
